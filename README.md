@@ -1,2 +1,2 @@
 # Object Detection Tools
-Util functions for my multimodal object detection projects. 
+Utility functions for my multimodal object detection project. 
